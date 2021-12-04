@@ -2,7 +2,7 @@
 
 ℹ️ For detailed information about the contest, check out [devadvent/readme](https://github.com/devadvent/readme/)
 
-# Dev Advent Calendar 🎅 Puzzle 4 - Finding the right box 📦
+# Dev Advent Calendar 🎅 Puzzle 4 - Optimizing shipping 📦
 
 You might not know this, but the Elf Post Service 📯 (ECS) is the largest parcel organization in the world. (For obvious reasons though, now that you think about, right?). They are ecologically responsible, so they continuously try to make everything more efficient, also when sending out packages.
 
@@ -43,7 +43,7 @@ Check out the [contributing guide](https://github.com/devadvent/readme/blob/main
 
 In short:
 
--   ✨ Create your repository by [acceping the assignment](https://classroom.github.com/a/XXXXXXXXX) using the participation link
+-   ✨ Create your repository by [acceping the assignment](https://classroom.github.com/a/8gTymnXm) using the participation link
 -   🧩 Solve the puzzle
 -   🐦 Add your Twitter handle to `twitter.js`
 -   🤖 Test your solution
@@ -52,7 +52,7 @@ In short:
 ## 🔗 Participation link
 
 In order to participate, you need to enter the following link and accept the assignment:
-[https://classroom.github.com/a/XXXXXXXXX](https://classroom.github.com/a/XXXXXXXXX)
+[https://classroom.github.com/a/8gTymnXm](https://classroom.github.com/a/8gTymnXm)
 
 ## 💻 Use this project
 
